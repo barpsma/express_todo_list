@@ -8,6 +8,10 @@ Muhammad Akbar
 
 My FrontEnd Todo Repo <a href='https://github.com/barpsma/react_todo_list'>here</a>
 
+## Deployed Project
+
+Documentations <a href='http://103.193.177.199:8000/api-docs/'>http://103.193.177.199:8000/api-docs/</a>
+
 ## Installation
 
 Clone this repo
