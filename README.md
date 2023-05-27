@@ -30,6 +30,10 @@ My FrontEnd Todo Repo <a href='https://github.com/barpsma/react_todo_list'>here<
 
 Documentations <a href='http://103.193.177.199:8000/api-docs/'>http://103.193.177.199:8000/api-docs/</a>
 
+## Postman Documentations
+
+Import TodoListFull_Deploy.json to your Postman and enjoy
+
 ## Installation
 
 Clone this repo
